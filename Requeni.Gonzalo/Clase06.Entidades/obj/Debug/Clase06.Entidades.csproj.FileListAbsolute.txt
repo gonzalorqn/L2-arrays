@@ -1,0 +1,6 @@
+D:\VisualStudio\Requeni.Gonzalo\Clase06.Entidades\bin\Debug\Clase06.Entidades.dll
+D:\VisualStudio\Requeni.Gonzalo\Clase06.Entidades\bin\Debug\Clase06.Entidades.pdb
+D:\VisualStudio\Requeni.Gonzalo\Clase06.Entidades\obj\Debug\Clase06.Entidades.csprojAssemblyReference.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase06.Entidades\obj\Debug\Clase06.Entidades.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Requeni.Gonzalo\Clase06.Entidades\obj\Debug\Clase06.Entidades.dll
+D:\VisualStudio\Requeni.Gonzalo\Clase06.Entidades\obj\Debug\Clase06.Entidades.pdb
